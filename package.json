@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.5"
+  },
+  "dependencies": {
+    "@aave/core-v3": "^1.19.3",
+    "@aave/protocol-v2": "^1.0.1",
+    "dotenv": "^16.4.5"
+  }
+}
